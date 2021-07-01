@@ -1,0 +1,23 @@
+body {
+    background-color: crimson;
+}
+
+.image-block {
+    width: 500px;
+    margin: auto;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+.text-block {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: darkgoldenrod;
+}
